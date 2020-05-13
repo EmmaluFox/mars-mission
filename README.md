@@ -4,8 +4,7 @@
 
 An educational website for inspiring interest in Mars.
 
-You can view it at https://techswitch-mars-mission.herokuapp.com/
-(or our staging environment at https://techswitch-mars-mission-stage.herokuapp.com/)
+You can view it at https://angry-bohr-288831.netlify.app/
 
 ## Setup
 The app is a react application built using Create React App.
